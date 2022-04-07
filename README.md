@@ -1,6 +1,7 @@
-- 👋 Oi pessoal, sou João Vitor Madureira iniciando hoje no mundo da programação!
-- 👀 Tenho interesse em trabalhar com desenvolvimento Front End.
-- Você pode ter contato comigo pelo meu email: joaomadureiraharvard@outlook.com e me da umas dicas ai :)
+- Oi pessoal, sou João Vitor Madureira iniciante no mundo da programação!
+- Estudo desenvolvimento Front End com: HTML5, CSS3 e JavaScript :)
+- Se interessou pelo meu perfil e quer ter contato? então: joaomadureiraharvard@outlook.com
+
 
 <!---
 j-madureira/j-madureira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
